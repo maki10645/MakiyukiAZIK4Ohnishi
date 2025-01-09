@@ -173,11 +173,6 @@ thi	てぃ
 thu	てゅ
 the	てぇ
 tho	てょ
-dha	でゃ
-dhi	でぃ
-dhu	でゅ
-dhe	でぇ
-dho	でょ
 twa	たぁ
 twi	てぃ
 twu	とぅ
@@ -465,11 +460,6 @@ ths	てぃん
 thr	てゅん
 thh	てぇん
 tht	てょん
-dhn	でゃん
-dhs	でぃん
-dhr	でゅん
-dhh	でぇん
-dht	でょん
 twn	たぁん
 tws	てぃん
 twr	とぅん
@@ -524,13 +514,6 @@ vr	ゔん
 vh	ゔぇん
 vt	ゔぉん
 
-msu	ます
-msi	ました
-msk	ますか
-dsu	です
-dsi	でした
-dsk	ですか
-
 kc	こう
 sc	そう
 tc	とう
@@ -565,7 +548,6 @@ bgc	びょう
 pyc	ぴょう
 pgc	ぴょう
 thc	てょう
-dhc	でょう
 twc	とぉう
 dwc	どぉう
 jyc	じょう
@@ -612,7 +594,6 @@ gy,	びゃい
 py,	ぴゃい
 pg,	ぴゃい
 th,	てゃい
-dh,	でゃい
 tw,	たぁい
 dw,	だぁい
 jy,	じゃい
@@ -659,7 +640,6 @@ bgv	びぇい
 pyv	ぴぇい
 pgv	ぴぇい
 thv	てぇい
-dhv	でぇい
 twv	てぇい
 dwv	でぇい
 jyv	じぇい
@@ -706,7 +686,6 @@ bgl	びゅう
 pyl	ぴゅう
 pgl	ぴゅう
 thl	てゅう
-dhl	でゅう
 twl	とぅう
 dwl	どぅう
 jyl	じゅう
