@@ -209,6 +209,7 @@ fyu	ふゅ
 fye	ふぇ
 fyo	ふょ
 c	ん
+v	っ
 la	ぁ
 li	ぃ
 lu	ぅ
@@ -278,10 +279,10 @@ z[	『
 z]	』
 z{	【
 z}	】
-zH	←
-zJ	↓
-zK	↑
-zL	→
+zK	←
+zT	↓
+zN	↑
+zS	→
 z;	゛
 z:	゜
 
