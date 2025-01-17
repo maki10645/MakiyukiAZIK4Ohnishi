@@ -173,11 +173,21 @@ pgi	ぴぃ
 pgu	ぴゅ
 pge	ぴぇ
 pgo	ぴょ
-tha	てゃ
-thi	てぃ
-thu	てゅ
-the	てぇ
-tho	てょ
+てんa	てゃ
+てんi	てぃ
+てんu	てゅ
+てんe	てぇ
+てんo	てょ
+でんa	でゃ
+でんi	でぃ
+でんu	でゅ
+でんe	でぇ
+でんo	でょ
+うぇんa	うぁ
+うぇんi	うぃ
+うぇんu	う
+うぇんe	うぇ
+うぇんo	うぉ
 twa	たぁ
 twi	てぃ
 twu	とぅ
@@ -301,7 +311,7 @@ st	そん
 tn	たん
 ts	ちん
 tr	つん
-th	てん
+th		てん
 tt	とん
 nn	なん
 ns	にん
@@ -332,7 +342,7 @@ ys	いん
 yh 	いぇん
 ws	うぃん
 wr	うん
-wh	うぇん
+wh		うぇん
 gn	がん
 gs	ぎん
 gr	ぐん
@@ -346,7 +356,7 @@ zt	ぞん
 dn	だん
 ds	ぢん
 dr	づん
-dh	でん
+dh		でん
 dt	どん
 bn	ばん
 bs	びん
@@ -453,11 +463,6 @@ pgs	ぴぃん
 pgr	ぴゅん
 pgh	ぴぇん
 pgt	ぴょん
-thn	てゃん
-ths	てぃん
-thr	てゅん
-thh	てぇん
-tht	てょん
 twn	たぁん
 tws	てぃん
 twr	とぅん
@@ -535,7 +540,6 @@ byc	びょう
 bgc	びょう
 pyc	ぴょう
 pgc	ぴょう
-thc	てょう
 twc	とぉう
 dwc	どぉう
 jyc	じょう
@@ -579,7 +583,6 @@ by,	びゃい
 gy,	びゃい
 py,	ぴゃい
 pg,	ぴゃい
-th,	てゃい
 tw,	たぁい
 dw,	だぁい
 jy,	じゃい
@@ -623,7 +626,6 @@ byv	びぇい
 bgv	びぇい
 pyv	ぴぇい
 pgv	ぴぇい
-thv	てぇい
 twv	てぇい
 dwv	でぇい
 jyv	じぇい
@@ -667,7 +669,6 @@ byl	びゅう
 bgl	びゅう
 pyl	ぴゅう
 pgl	ぴゅう
-thl	てゅう
 twl	とぅう
 dwl	どぅう
 jyl	じゅう
