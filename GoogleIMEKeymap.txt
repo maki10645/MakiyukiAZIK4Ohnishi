@@ -88,6 +88,11 @@ sgi	し
 sgu	しゅ
 sge	しぇ
 sgo	しょ
+せんa	しゃ
+せんi	し
+せんu	しゅ
+せんe	しぇ
+せんo	しょ
 tya	ちゃ
 tyi	ちぃ
 tyu	ちゅ
@@ -209,7 +214,7 @@ fyu	ふゅ
 fye	ふぇ
 fyo	ふょ
 c	ん
-v	っ
+v		っ
 la	ぁ
 li	ぃ
 lu	ぅ
@@ -218,13 +223,14 @@ lo	ぉ
 lya	ゃ
 lyu	ゅ
 lyo	ょ
-va	ゔぁ
-vi	ゔぃ
-vu	ゔ
-ve	ゔぇ
-vo	ゔぉ
-v,	゛
-v.	゜
+っa	ゔぁ
+っi	ゔぃ
+っu	ゔ
+っe	ゔぇ
+っo	ゔぉ
+っ,	゛
+っ.	゜
+ｖ
 0	0
 1	1
 2	2
@@ -293,7 +299,7 @@ kt	こん
 sn	さん
 ss	しん
 sr	すん
-sh	せん
+sh		せん
 st	そん
 tn	たん
 ts	ちん
@@ -498,11 +504,6 @@ lt	ぉん
 lyn	ゃん
 lyr	ゅん
 lyt	ょん
-vn	ゔぁん
-vs	ゔぃん
-vr	ゔん
-vh	ゔぇん
-vt	ゔぉん
 
 kc	こう
 sc	そう
@@ -547,7 +548,6 @@ gwc	ぐぉう
 fyc	ふょう
 lc	ぉう
 lyc	ょう
-vc	ゔぉう
 
 k,	かい
 s,	さい
@@ -592,7 +592,6 @@ gw,	ぐぁい
 fy,	ふゃい
 l,	ぁい
 ly,	ゃい
-v,	ゔぁい
 
 kv	けい
 sv	せい
@@ -637,7 +636,7 @@ gwv	ぐぇい
 fyv	ふぇい
 lv	ぇい
 lyv	ぇい
-vv	ゔぇい
+
 
 kl	くう
 sl	すう
@@ -682,7 +681,6 @@ gwl	ぐう
 fyl	ふゅう
 ll	ぅう
 lyl	ゅう
-vl	ゔう
 
 k-	こい
 s-	そい
@@ -726,4 +724,3 @@ gw-	ぐぉい
 fy-	ふょい
 l-	ぉい
 ly-	ょい
-v-	ゔう
