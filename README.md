@@ -5,10 +5,14 @@ Azik  for Ohnishi Layout
 名前は適当に"まきゆきAzik 4 大西"とします
 現在0.1.5です
 
+細かい説明はこれを読んでください
+
+[私の記事](https://makiyuki.blog/blog/makiyukiazik4ohnishi.html)
+
 ## 割り当て
 - 'n','s','r','h','t'にそれぞれ"ann","inn","unn","enn","onn"
 - 'c', 'v'の単打でそれぞれ"ん","っ"
-- 子音＋'c', ',' ,'v' ,'l'でそれぞれ"ou","ai","ei","uu"
+- 子音＋'c', ',' ,'v' ,'l', '-' でそれぞれ"ou","ai","ei","uu", "oi"
 - 特殊拡張なし
 - shでのしゃ行、ならびにvでのゔぁ行においては撥音や二重母音をサポートしない。
 - sg, bg, zg, pgでそれぞれしゃ行,びゃ行,じゃ行,ぴゃ行
