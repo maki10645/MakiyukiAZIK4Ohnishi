@@ -613,10 +613,9 @@ bgt	びょん
 pt	ぽん
 pyt	ぴょん
 pgt	ぴょん
-mt	おん
+mt	もん
 myt	みょん
 yt	よん
 rt	ろん
 ryt	りょん
 wt	をん
-
