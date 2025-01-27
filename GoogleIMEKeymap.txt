@@ -298,7 +298,7 @@ bgc	びょう
 pc	ぽう
 pyc	ぴょう
 pgc	ぴょう
-mc	おう
+mc	もう
 myc	みょう
 yc	よう
 rc	ろう
