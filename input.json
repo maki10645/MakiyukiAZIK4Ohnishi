@@ -1,0 +1,46 @@
+{
+  "Sequence": [
+    {
+      "Token": "n",
+      "Sequence": "an"
+    },
+    {
+      "Token": "s",
+      "Sequence": "in"
+    },
+    {
+      "Token": "r",
+      "Sequence": "un"
+    },
+    {
+      "Token": "h",
+      "Sequence": "en"
+    },
+    {
+      "Token": "t",
+      "Sequence": "on"
+    },
+    {
+      "Token": "c",
+      "Sequence": "ou"
+    },
+    {
+      "Token": ",",
+      "Sequence": "ai"
+    },
+    {
+      "Token": "v",
+      "Sequence": "ei"
+    },
+    {
+      "Token": "l",
+      "Sequence": "uu"
+    },
+    {
+      "Token": "-",
+      "Sequence": "oi"
+    }
+  ],
+  "Sokuon": "v",
+  "Hatsuon": "c"
+}
