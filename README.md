@@ -8,7 +8,7 @@ Azik  for Ohnishi Layout
 
 細かい説明はこれを読んでください
 
-[私の記事](https://makiyuki.blog/blog/makiyukiazik4ohnishi.html)
+[私の記事](https://zenn.dev/maki10645/articles/68f7c10a018691)
 
 ## 割り当て
 
