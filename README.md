@@ -24,3 +24,10 @@ Azik  for Ohnishi Layout
 
 - Google IME
 - CorvusSKK
+- MacSKK
+- AquaSKK(動作未確認)
+
+## Macで使用する際の注意点
+
+shでのしゃ行が完全に打てません。同じくwhでのうぁうぃううぇうぉや、dhでのでぁでぃでぅでぇでぉ、その他hを二文字目に持つ複数文字子音は使えません。
+使えるような設定を模索はしますが見つかる気がしません。
